@@ -1,36 +1,24 @@
-Web Designer | UI/UX Developer | Full-Stack Web Developer | Ethical Hacker | Cloud Enthusiast 
-Hey there! 👋 Welcome to my GitHub profile! I expertise in web designing, UI/UX development, full-stack web development, ethical hacking, and cloud computing. 
-Let me give you a brief overview of my skills and experience. 🚀
+# 💫 About Me:
+Web Designer | UI/UX Developer | Full-Stack Web Developer | Ethical Hacker | Cloud Enthusiast Hey there! 👋 Welcome to my GitHub profile! I expertise in web designing, UI/UX development, full-stack web development, ethical hacking, and cloud computing. Let me give you a brief overview of my skills and experience. 🚀
 
-Skills
-💻 Languages: HTML, CSS, JavaScript, Python, Java
-🎨 Web Design: UI/UX, Figma
-⚛️ Front-End Development: React, Svelte, Vue, Angular
-🗄️ Back-End Development: MongoDB, Express, Node.js
-📊 Databases: MongoDB, MySQL
-🛡️ Ethical Hacking: Kali Linux
-☁️ Cloud Computing: AWS, Azure, Google Cloud, Docker, Kubernetes
 
-Web Designing and UI/UX Development
-I have a strong background in web designing and UI/UX development. With a keen eye for aesthetics and a passion for creating intuitive user experiences. I'm proficient in using tools like figma to bring designs to life and ensure a seamless user journey.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debayan-mukherjee-web3090) 
 
-Full-Stack Web Development
-As a full-stack web developer, I possess expertise in both front-end and back-end development. I'm well-versed in building responsive and interactive web applications using HTML, CSS, JavaScript, and popular frameworks like React, Svelte, Vue, and Angular. I'm also experienced in the MERN stack, leveraging MongoDB, Express, React, and Node.js to create scalable and efficient full-stack solutions.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=codeuxdebayan&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=codeuxdebayan&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeuxdebayan&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-Databases
-I have hands-on experience working with MongoDB, a flexible NoSQL database, and MySQL, a reliable relational database. 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-Python and Java Development
-I'm proficient in both Python and Java programming languages. With Python.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=codeuxdebayan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Ethical Hacking
-With a strong passion for cybersecurity, I possess knowledge and skills in ethical hacking. I'm well-versed in utilizing Kali Linux, a powerful operating system for penetration testing and security assessments. 
+---
+[![](https://visitcount.itsvg.in/api?id=codeuxdebayan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Cloud Computing and Deployment
-I have a deep interest in cloud computing and deployment. I'm experienced in working with renowned cloud platforms such as AWS, Azure, and Google Cloud. Leveraging various cloud services and tools, I'm adept at deploying scalable web applications, managing serverless architectures, and optimizing infrastructure for enhanced performance.
-
-Let's Collaborate
-I'm passionate about delivering high-quality solutions, creating engaging user experiences, and ensuring robust security measures.
-
-Feel free to explore my GitHub repositories to view my projects. 
-Let's create impactful experiences and secure the digital world together! 🌟
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
